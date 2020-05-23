@@ -1,0 +1,4 @@
+C:\Users\willi\Desktop\TND004\Labbar\lab\Debug\lab.exe
+C:\Users\willi\Desktop\TND004\Labbar\lab\Debug\lab.pdb
+C:\Users\willi\Desktop\TND004\Labbar\lab1\Debug\lab.exe
+C:\Users\willi\Desktop\TND004\Labbar\lab1\Debug\lab.pdb
